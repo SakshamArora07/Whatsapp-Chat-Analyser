@@ -1,8 +1,8 @@
-#StatChat - Whatsapp Chat Analyser
-Overview
+# StatChat - Whatsapp Chat Analyser
+## Overview
 StatChat is an innovative WhatsApp Chat Analyzer that provides fascinating insights into your chat history. Developed from scratch, it leverages powerful libraries such as Matplotlib, URLExtract, Pandas, Collections, Regex, and Datetime to meticulously extract and analyze chat data.
 
-Technology Used
+## Technology Used
 Python: The core programming language used for the application.
 Matplotlib: For creating detailed visualizations.
 URLExtract: To identify and extract URLs from the chat data.
@@ -12,7 +12,7 @@ Regex: For advanced text searching and manipulation.
 Datetime: To handle date and time-related operations.
 Streamlit: For building and deploying the interactive web application.
 
-Features
+## Features
 StatChat offers a comprehensive suite of features to analyze both group and individual chats:
 
 Top Statistics: Overview of total messages, words, media shared, and links shared.
@@ -26,7 +26,7 @@ Day-wise Activity: Insights into which days are most active.
 Month-wise Activity: Insights into which months are most active.
 Weekly Activity - Insights into which is the most active time-period of the day on different days of the week.
 
-Usage
+## Usage
 To get started with StatChat, follow these simple steps:
 
 Export Chat Data: From WhatsApp, go to the chat you want to analyze, click the three dots, select "More," choose "Export Chat," and download the chat file.
@@ -34,15 +34,15 @@ Upload Data: Visit the StatChat link and upload the exported chat file.
 Analyze: Enjoy detailed insights and analytics from your WhatsApp chat data!
 Note: Ensure that the chat data is in a 12-hour format for accurate analysis.
 
-Deployment
+## Deployment
 StatChat is deployed using Streamlit, a platform designed for creating and sharing data applications. The interactive and user-friendly interface provided by Streamlit makes analyzing your chat data seamless and enjoyable.
 
-Contributions
+## Contributions
 We welcome contributions! If you wish to contribute to StatChat, feel free to fork the repository, make your changes, and submit a pull request.
 
-Acknowledgements
+## Acknowledgements
 We extend our gratitude to the developers of the libraries used in this project, including Matplotlib, URLExtract, Pandas, Collections, Regex, and Datetime.
 
-Privacy
+## Privacy
 StatChat ensures your privacy by not storing any uploaded chat data. All analyses are performed in real-time on your local session, ensuring your data remains secure.
 
